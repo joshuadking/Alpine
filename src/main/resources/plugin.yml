@@ -1,0 +1,11 @@
+name: Alpine
+version: '${project.version}'
+main: com.arcturusmc.alpine.Alpine
+api-version: 1.19
+authors: [ JoshuaK ]
+description: Player statistics plugin for ArcturusMC
+website: https://arcturusmc.com/
+depend:
+  - Vault
+commands:
+  addcatch:

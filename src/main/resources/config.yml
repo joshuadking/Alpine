@@ -1,0 +1,6 @@
+sql-credentials:
+  hostname: localhost
+  database: alpine
+  port: 3306
+  username: joshua
+  password: 'cheese'
